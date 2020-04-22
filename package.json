@@ -1,0 +1,28 @@
+{
+  "name": "nadia-webpack-encore-entry-collector",
+  "version": "0.1.1",
+  "description": "An easy way to add Encore entry files",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadiaLabs/nadia-webpack-encore-entry-collector.git"
+  },
+  "maintainers": [
+    {
+      "name": "leo",
+      "email": "leo.on.the.earth@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "@symfony/webpack-encore": "^0.20",
+    "glob": "^7.0"
+  },
+  "keywords": [
+    "webpack-encore",
+    "encore",
+    "symfony",
+    "webpack",
+    "nadialabs"
+  ],
+  "main": "index"
+}
